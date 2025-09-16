@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
   margin: 0;padding: 0;
   box-sizing: border-box;
@@ -184,4 +185,45 @@ nav i{
   position: absolute;
   width: 17vw;
   transition: all cubic-bezier(0.19, 0.5, 0.165, 1);
+=======
+html, body {
+  height: 100%;
+  margin: 0;   
+}
+
+.cantainer {
+  height: 87%;
+  width: 100%;
+background: linear-gradient(to left, pink, white, rgb(86, 197, 160));
+display: flex;
+align-items: center;
+gap: 10px;
+flex-wrap: wrap; 
+ text-decoration: none;
+}
+.gsap{
+  background: linear-gradient(rgb(127, 176, 176),rgb(164, 127, 127));
+  padding-left:40% ;
+}
+
+.child{
+  height: 25vh;
+  width: 25vw;
+  background: linear-gradient(to left,rgb(118, 179, 165),white,rgb(160, 168, 137));
+  flex-wrap: wrap; 
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  left: 40%;
+  border-radius: 5%;
+  text-decoration: none;
+}
+
+.child:hover{
+  border: 2px solid cornsilk;
+  box-shadow: 2px 2px 4px  grey;
+  background: linear-gradient(rgb(174, 174, 115),white,rgb(118, 179, 165));
+  cursor: pointer;
+>>>>>>> d8ad2e39935c5d2f574866ae764026d73afcee65
 }
