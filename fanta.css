@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *{
   margin: 0;padding: 0;
   box-sizing: border-box;
@@ -225,5 +225,4 @@ flex-wrap: wrap;
   box-shadow: 2px 2px 4px  grey;
   background: linear-gradient(rgb(174, 174, 115),white,rgb(118, 179, 165));
   cursor: pointer;
->>>>>>> d8ad2e39935c5d2f574866ae764026d73afcee65
 }
