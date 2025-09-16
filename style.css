@@ -4,7 +4,7 @@ html, body {
 }
 
 .cantainer {
-  height: 87%;
+  height: 92%;
   width: 100%;
 background: linear-gradient(to left, pink, white, rgb(86, 197, 160));
 display: flex;
@@ -37,4 +37,5 @@ flex-wrap: wrap;
   box-shadow: 2px 2px 4px  grey;
   background: linear-gradient(rgb(174, 174, 115),white,rgb(118, 179, 165));
   cursor: pointer;
+
 }
